@@ -80,7 +80,7 @@ Me = message(use_pass[0], use_pass[1], use_pass[5], txt_message)
 
 # Send the text
 send_txt(Me)
-#send_txt(GF)
+send_txt(GF)
 
 
 
